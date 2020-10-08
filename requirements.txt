@@ -2,3 +2,8 @@ flask
 gunicorn
 flask-heroku
 opencv-python
+pyttsx3
+PyPDF2
+numpy
+playsound
+urllib3
