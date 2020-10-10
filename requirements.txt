@@ -7,4 +7,4 @@ PyPDF2
 numpy
 playsound
 urllib3
-
+flask_cors
