@@ -107,3 +107,10 @@ GHCI : Innovative Solutions for the Specially-Abled people post COVID-19 life.
           Step 5: Obtain the text and given choice using speaker.getProperty().
           Step 6: Convert it to speech using speaker.say(text) and speaker.runAndWait() commands.
 
+
+## DONE BY:
+   ### TEAM : HACK_CODERS
+    - PRASEEDHA PRAVEEN KALBHAVI
+    - MINI SHAIL CHHABRA
+    - MARTHALA SAI KAVYA
+   
