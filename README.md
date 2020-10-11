@@ -1,7 +1,5 @@
 # UP TO THE MINUTE?
 
-LINK TO THE WEBSITE: https://ghci.azurewebsites.net/
-
 GHCI : Innovative Solutions for the Specially-Abled people post COVID-19 life.
 
 ## 1] OBJECT DETECTION
