@@ -1,5 +1,8 @@
 # UP TO THE MINUTE?
 
+https://medium.com/up-to-the-minute/up-to-the-minute-baf12954f4d8
+
+
 GHCI : Innovative Solutions for the Specially-Abled people post COVID-19 life.
 
 ## 1] OBJECT DETECTION
@@ -69,6 +72,8 @@ GHCI : Innovative Solutions for the Specially-Abled people post COVID-19 life.
           Step 4: Stop recording...
 
 ## 5] AUDIO BOOKS
+
+  https://medium.com/up-to-the-minute/audiobooks-experience-the-joy-of-reading-fc172dfc8752
 
   ### Prerequisites
 
